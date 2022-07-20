@@ -1,7 +1,7 @@
 # streamlit-ml-demo
 A demo application to showcase the responsive UI for ImageNet using Streamlit. Streamlit provides an alternative to building full stack applications for the Machine Learning interface. Here, streamlit is used to upload an image for inference from the model.
 
-[![Screenshot of the demo application](http://img.youtube.com/vi/1y1o4XoFIuA/0.jpg)](http://www.youtube.com/watch?v=1y1o4XoFIuA)
+[![Screenshot of the demo application](http://kobokit.com/wp-content/uploads/2022/07/RESNET-Prediction.jpg)
 
 This demo is created using [Streamlit](https://www.streamlit.io/).
 
@@ -19,5 +19,5 @@ Run the application
 The application will run on localhost:8501 by default.
 
 ### Sample Screenshots
-![Screenshot from a PC](images/pc_view.png "PC View of the app")
-![Screenshot from Mobile Device](images/mobile_view.png "Mobile View of the app")
+![Screenshot from a PC](http://kobokit.com/wp-content/uploads/2022/07/screen-1.jpg)
+![Screenshot2 from a Desktop](http://kobokit.com/wp-content/uploads/2022/07/screen-2.jpg)
